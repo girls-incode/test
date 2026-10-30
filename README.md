@@ -1,4 +1,4 @@
 # test
 test
 another text
-latest one
+latest
